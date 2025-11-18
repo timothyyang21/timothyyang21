@@ -1,7 +1,7 @@
 # 🌤️ **Hi, I’m Tim — a Frontend Engineer who builds things with feeling.**
 
 I’m a Taiwan-born, Bay Area-based **React Native + TypeScript** engineer who loves creating products that feel warm, intuitive, and genuinely human.
-I care about **craft**, **emotion-aware design**, and making technology feel like sunlight — clear, simple, and quietly powerful.
+I care about **craft**, **emotion-aware design**, and making technology feel like sunlight - clear, simple, and lowkey powerful.
 
 Right now, I’m sharpening my full-stack skillset, building new projects, and documenting everything publicly as I grow.
 
@@ -62,7 +62,7 @@ I’m rebuilding my portfolio from the ground up, focusing on clarity, craft, an
 
 ## 📫 **Let’s connect**
 
-* **LinkedIn:** *Add link here*
+* **LinkedIn:** [timothyyang0106](https://www.linkedin.com/in/timothy-yang0106/)
 * **Website / Portfolio:** *Coming soon*
 
 ---
