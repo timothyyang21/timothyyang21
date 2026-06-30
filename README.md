@@ -11,7 +11,6 @@ Right now, I’m sharpening my full-stack skillset, building new projects, and d
 
 * Revamping my GitHub with fresh, modern projects
 * Deepening my React Native + Expo expertise
-* Exploring Unity + C# for a future indie game
 * Preparing for fully remote frontend roles
 * Learning, building, and sharing with intention
 
@@ -36,8 +35,6 @@ Right now, I’m sharpening my full-stack skillset, building new projects, and d
 
 **Currently exploring**
 
-* Unity + C#
-* Mobile game architectures
 * High-contrast, minimal UI design patterns
 * AI-assisted development workflows
 
