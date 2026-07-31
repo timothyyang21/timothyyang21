@@ -1,71 +1,31 @@
-# 🌤️ **Hi, I’m Tim - a Frontend Engineer who builds things with feeling.**
+# ☀️ Hi, I'm Tim — I design and ship products with feeling.
 
-I’m a Taiwan-raised, Bay Area-based **React Native + TypeScript** US engineer who loves creating products that feel warm, intuitive, and genuinely human.
-I care about **craft**, **emotion-aware design**, and making technology feel like sunlight - clear, simple, and powerful.
+I'm a Taiwan-raised, Bay Area–based **React / React Native + TypeScript** engineer who designs *and* builds products end-to-end — warm, intuitive interfaces on top of real, cloud-native architecture. I care about craft, emotion-aware design, and making software feel like sunlight: clear, simple, powerful.
 
-Right now, I’m sharpening my full-stack skillset, building new projects, and documenting everything publicly as I grow.
+Over the past year I've run a one-person studio, shipping ~5 products from Figma to the App Store — small games, native utilities, and journaling and learning tools.
 
----
+## 🚀 Selected work
 
-## 🌱 **What I’m doing now**
+- **Ice Age Life** — a full-stack React + TypeScript app running on iOS, Android, and web from a single codebase. Live on the App Store, 5-star rated, backed by 10,000+ automated tests. — [App Store](ADD_APP_STORE_LINK) · [Repo](ADD_REPO_LINK)
+- **Everywhen** — location-based microlearning; shipped a v1.1 Pro experience with themed daily content and iPad polish. — [Repo](ADD_REPO_LINK)
+- **ImSunlit** — a journaling app built for reflection and warmth. Live on the App Store. — [App Store](ADD_APP_STORE_LINK) · [Repo](ADD_REPO_LINK)
+- **Acadia** — a real-time companion app for the Acadia nation on the EarthMC Minecraft server: live online status, town and nation wealth, GDP and citizen-wealth leaderboards, and interactive claims maps. iOS + Android. — [Learn more](https://sunlitgamestudio.com/acadia)
 
-* Revamping my GitHub with fresh, modern projects
-* Deepening my React Native + Expo expertise
-* Preparing for fully remote frontend roles
-* Learning, building, and sharing with intention
+## 🛠 What I build with
 
----
+**Frontend / Mobile:** React, React Native, Expo, Next.js, TypeScript · design systems & accessibility (screen-reader roles, reduce-motion) · Figma
 
-## 🛠️ **Tech I’m comfortable with**
+**Backend / Infra:** Node.js, Express, GraphQL (AWS AppSync), PostgreSQL / Aurora, AWS (CDK, Lambda, S3), Python
 
-**Frontend / Mobile**
+**How I work:** AI-native workflows, thorough automated testing, and shipping at founding-engineer velocity while owning product *and* architecture.
 
-* React Native, Expo
-* React, Next.js
-* TypeScript, JavaScript
-* Tailwind, CSS-in-JS
+## ☀️ What I care about
 
-**Backend & Tools**
+Thoughtful design that makes people feel something · clean, maintainable architecture · story-driven interfaces · building products with soul, not noise.
 
-* Node.js, Express
-* PostgreSQL
-* AWS (Lambda, RDS, S3)
-* GraphQL / REST
-* Python (for tooling + experimentation)
+## 📫 Let's connect
 
-**Currently exploring**
+- **LinkedIn:** [timothyyang01](https://linkedin.com/in/timothyyang01)
+- **Portfolio:** [timothyyang.dev](https://timothyyang.dev)
 
-* High-contrast, minimal UI design patterns
-* AI-assisted development workflows
-
----
-
-## 📂 **Highlighted Projects**
-
-*Coming soon — new repositories underway.*
-I’m rebuilding my portfolio from the ground up, focusing on clarity, craft, and real-world usefulness.
-
----
-
-## ☀️ **What I care about**
-
-* Thoughtful design that makes people feel something
-* Clean, maintainable architecture
-* Story-driven interfaces
-* Creativity as strategy
-* Building products with soul, not noise
-
----
-
-## 📫 **Let’s connect**
-
-* **LinkedIn:** [timothyyang0106](https://www.linkedin.com/in/timothy-yang0106/)
-* **Website / Portfolio:** *Coming soon*
-
----
-
-## ✨ **A note from me**
-
-I believe the best code is emotional:
-functional, expressive, and quietly transformative.
-I’m building toward that - one project, one repo, one day at a time.
+> I believe the best code is quietly transformative — functional, expressive, and built with care. One project, one repo at a time.
