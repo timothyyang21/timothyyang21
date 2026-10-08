@@ -1,31 +1,51 @@
-# ☀️ Hi, I'm Tim — I design and ship products with feeling.
+# Hi, I'm Tim
 
-I'm a Taiwan-raised, Bay Area–based **React / React Native + TypeScript** engineer who designs *and* builds products end-to-end — warm, intuitive interfaces on top of real, cloud-native architecture. I care about craft, emotion-aware design, and making software feel like sunlight: clear, simple, powerful.
+**Product engineer & designer · San Francisco Bay Area**
 
-Over the past year I've run a one-person studio, shipping ~5 products from Figma to the App Store — small games, native utilities, and journaling and learning tools.
+I design and build products from the first interaction to the interface, API, data model, and release. At **Sunlit Studio**, I've independently released **14 apps on the App Store**, spanning games, productivity, history, journaling, and wellness.
 
-## 🚀 Selected work
+I was a designer before I was an engineer. I care about how software feels under someone's hand—and what happens when a connection fails, a record changes, or an animation is interrupted.
 
-- **Ice Age Life** — a full-stack React + TypeScript app running on iOS, Android, and web from a single codebase. Live on the App Store, 5-star rated, backed by 10,000+ automated tests. — [App Store](ADD_APP_STORE_LINK) · [Repo](ADD_REPO_LINK)
-- **Everywhen** — location-based microlearning; shipped a v1.1 Pro experience with themed daily content and iPad polish. — [Repo](ADD_REPO_LINK)
-- **ImSunlit** — a journaling app built for reflection and warmth. Live on the App Store. — [App Store](ADD_APP_STORE_LINK) · [Repo](ADD_REPO_LINK)
-- **Acadia** — a real-time companion app for the Acadia nation on the EarthMC Minecraft server: live online status, town and nation wealth, GDP and citizen-wealth leaderboards, and interactive claims maps. iOS + Android. — [Learn more](https://sunlitgamestudio.com/acadia)
+[Portfolio](https://www.timothyyang.dev) · [Engineering](https://www.timothyyang.dev/work) · [Design](https://www.timothyyang.dev/design) · [All 14 apps](https://sunlitgamestudio.com/apps) · [LinkedIn](https://www.linkedin.com/in/timothyyang01/)
 
-## 🛠 What I build with
+## Start with the code
 
-**Frontend / Mobile:** React, React Native, Expo, Next.js, TypeScript · design systems & accessibility (screen-reader roles, reduce-motion) · Figma
+### [Motion Lab](https://github.com/timothyyang21/motion-lab)
 
-**Backend / Infra:** Node.js, Express, GraphQL (AWS AppSync), PostgreSQL / Aurora, AWS (CDK, Lambda, S3), Python
+Three React Native interaction primitives: an interruptible bottom sheet, a hold-to-confirm control, and a rolling number. Built with **Expo, TypeScript, Reanimated, and Gesture Handler**.
 
-**How I work:** AI-native workflows, thorough automated testing, and shipping at founding-engineer velocity while owning product *and* architecture.
+The repository includes recorded demos, the reasoning behind the motion system, tests for the pure logic, and a performance investigation that documents both findings and remaining limitations.
 
-## ☀️ What I care about
+[Watch the demos and read the implementation](https://github.com/timothyyang21/motion-lab#motion-lab) · [Browse the source](https://github.com/timothyyang21/motion-lab/tree/main/src)
 
-Thoughtful design that makes people feel something · clean, maintainable architecture · story-driven interfaces · building products with soul, not noise.
+## Selected shipped work
 
-## 📫 Let's connect
+### [Gym House — editable history, persistent progress](https://www.timothyyang.dev/work/gym-house)
 
-- **LinkedIn:** [timothyyang01](https://linkedin.com/in/timothyyang01)
-- **Portfolio:** [timothyyang.dev](https://timothyyang.dev)
+A strength-training log connected to a persistent game world. I separated editable workout history from earned progress, built private iCloud backup with explicit conflict choices, and tested retries and edits during sync.
 
-> I believe the best code is quietly transformative — functional, expressive, and built with care. One project, one repo at a time.
+**SwiftUI · persistence · iCloud backup**
+
+### [Untwine — one task model, two native experiences](https://www.timothyyang.dev/work/untwine)
+
+A task manager for iPhone and Mac that treats how hard something feels as part of the task. Shared models support platform-specific interactions, App Intents, and home-screen widgets.
+
+**SwiftUI · SwiftData · iPhone & Mac**
+
+### [What Feels Good — reflection into small changes](https://www.timothyyang.dev/design/what-feels-good)
+
+A flow from an experience to a small change, followed by check-ins and a review. Someone can keep a change, adjust, or finish while preserving the history that informed their decision.
+
+**Product design · interaction design · SwiftUI**
+
+The case studies include product screens and the decisions behind them. Explore [the full app catalog](https://sunlitgamestudio.com/apps) for Ice Age Life, Everywhen, and the rest of the studio's released work.
+
+## Tools and approach
+
+- **Interfaces:** React, TypeScript, React Native, Expo, Next.js, Swift, SwiftUI, Figma
+- **Backends:** Node.js, GraphQL, PostgreSQL, AWS CDK, AppSync, Lambda, Python
+- **Process:** interaction design, shared design systems, focused tests, and release verification. I direct coding agents and review their implementation, including behavior and failure paths.
+
+Previously, I owned **WingRep's mobile app through App Store launch** and built GraphQL and AWS infrastructure behind it. My design background includes motion and UI/UX work at **Dartmouth's DALI Lab**.
+
+M.S. Computer Science & Digital Art · B.S. Computer Science · Dartmouth
