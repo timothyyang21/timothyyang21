@@ -8,16 +8,6 @@ I was a designer before I was an engineer. I care about how software feels under
 
 [Portfolio](https://www.timothyyang.dev) · [Engineering](https://www.timothyyang.dev/work) · [Design](https://www.timothyyang.dev/design) · [All 14 apps](https://sunlitgamestudio.com/apps) · [LinkedIn](https://www.linkedin.com/in/timothyyang01/)
 
-## Start with the code
-
-### [Motion Lab](https://github.com/timothyyang21/motion-lab)
-
-Three React Native interaction primitives: an interruptible bottom sheet, a hold-to-confirm control, and a rolling number. Built with **Expo, TypeScript, Reanimated, and Gesture Handler**.
-
-The repository includes recorded demos, the reasoning behind the motion system, tests for the pure logic, and a performance investigation that documents both findings and remaining limitations.
-
-[Watch the demos and read the implementation](https://github.com/timothyyang21/motion-lab#motion-lab) · [Browse the source](https://github.com/timothyyang21/motion-lab/tree/main/src)
-
 ## Selected shipped work
 
 ### [Gym House — editable history, persistent progress](https://www.timothyyang.dev/work/gym-house)
