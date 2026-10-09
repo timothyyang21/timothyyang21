@@ -28,6 +28,12 @@ A flow from an experience to a small change, followed by check-ins and a review.
 
 **Product design · interaction design · SwiftUI**
 
+### [Ice Age Life — shipped simulation with early paid activity](https://www.timothyyang.dev/work/ice-age-life)
+
+Designed and built a narrative life simulation across iOS, Android, and web with a shared 150+ component design system. Reached **146 first-time App Store downloads** and recorded **three in-app purchases** during July 10–October 7, 2026, as reported by App Store Connect.
+
+**React Native · TypeScript · Node/Express · product design**
+
 The case studies include product screens and the decisions behind them. Explore [the full app catalog](https://sunlitgamestudio.com/apps) for Ice Age Life, Everywhen, and the rest of the studio's released work.
 
 ## Tools and approach
